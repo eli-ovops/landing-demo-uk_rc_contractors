@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-07T01:23:06.097799+00:00",
+  "reviewer": {
+    "taskId": "/root/rc_demo_review",
+    "name": "Independent R C Contractors Demo Reviewer",
+    "identityEvidence": "collaboration tool spawn/followup current task tree; production Owner /root, 01a0793a-28ac-7e60-a889-1e1e21e491c3; reviewer writes only independent review artifacts"
+  },
+  "inputHash": "596f5960ee56134f9cfbcd490cc44f018dc9cb3ef810d7122dcfe2f1c3cd8091",
+  "resultSha256": "89023d01fa9d17a8dd49fe241092da433c223599246d90fabe9390eede3b7c02",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "712f2ee9deeb4f0239b2fdb952f369b6a7343d33a0cdf1e654dd15277ac9569b"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "46b6471e142eec843d8210c221ca5049c706b4bc373b974e8692c03653f13df3"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "458e5139c272be58b509b98fccc680c7287f78a63d04f15cd1ee39a17bcdd49a"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "b222fe0a58f2b86f8b9ef8a0c2b25172195e228d0b8bbf66f9e8ffdf37c05645"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "3664ff3c4d222c31e192e9d3fe39b97c92476c1e11ad0a224dbcce39158db893"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "3709345de54501c2b54158bed8ff3864d59cb1416e51aa585c63cc90605c6cfa"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "6eabdefd163751819977d82528c6e1a88849c333774f33af88580645a147273b"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "bc111bd90bc93f218a3625ce16b6b067ebf933076eddb7eb1985e1da505d962d"
+    },
+    {
+      "path": "desktop-section-5.png",
+      "sha256": "5a81f86bbff3f0a6dbf4b25a4a47f9cd3f75ae909e63515037bab29abfa98012"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "93e2b9a5cd36af4cf0cee22664b39385269cef2a187b9ea22d208b460e173ab6"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "afe44393f0e371098dcf10cac6cc85fcadccea854c1709d7760669fa5b4a324f"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "dde637e200b0712a973ac7b41b4393e58d260303c88af8850498155c6a8f557f"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "4418f15a8ff51cf8804e339a6a2e9bea574ff252e2ecc44623d74340a5dad41d"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "59bad522652fb6673cf5ec6a5475ef45c6e21783bb1227a35144b4dea90c1045"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "de9d37a5d18383d09cb9adad3bab16f0eb06d8c6f959a98d5aefc3fc9f7ac47c"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "f4277278f1efeef9df7b9c3189cc5e3fd2f5d2b9948f199325c8c939681dab02"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "2957569b507cef3a8d1a8d7a8e86b123cb0a0e86d122dd361741433b970b2774"
+    },
+    {
+      "path": "mobile-section-5.png",
+      "sha256": "f1ff268a3cf641248fc657dbf4d92f67852ce49c374de490cdcb9dd8dfd69177"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "ded9b1d44a3d1a5316dbd5737dde13a7f53af3ae7add17bfe62550af1528acca"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "ad986f19feae0aa8628c03e2e865179f7a27efa4100589c7a02d4c06174ada1c"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": {
+      "viewport": "1440x900",
+      "status": "PASS",
+      "finding": "Personally viewed top/full and evidence/contact sections. Whole hero subject, two-line title, restrained attributed experience band, clear two-service hierarchy and compact close; no visual regression."
+    },
+    "mobile": {
+      "viewport": "390x844",
+      "status": "PASS",
+      "finding": "Personally viewed top/full, experience, feedback and contact sections. Added experience attribution and postcode legible; headline/image fit unchanged, service/contact links readable. Independently clicked paving service CTA with reduced-motion and reached #contact; contact mobile row y485.58 within viewport."
+    }
+  },
+  "businessFindings": {
+    "status": "PASS",
+    "changeAssessment": "Same-direction refinement; F11 now accurately surfaced as a profile claim with visible attribution; listing date is membership; postcode is a base locality, not visiting instructions. Job descriptions and two service CTA links reduce decision friction.",
+    "threeFirstOpeningTests": {
+      "noCopyRecognition": "PASS: miniature wall/paving still identifies exterior building work without paragraphs.",
+      "commercialUpgrade": "PASS: concrete garden-wall/patio/roof job language, accessible experience provenance and dated feedback lead to exact direct contact.",
+      "ownerReplyPerspective": "PASS: customer-specific service, tenure source, postcode and contact make a credible self-contained page; reply or purchase remains unknown, not a probability claim."
+    },
+    "bottom40": "PASS: roof model and supporting scope add new relevant information/visual, dated workmanship/communication feedback remain, then a specific wall/patio/repair enquiry prompt with postcode. No oversized empty close or duplicate proof metric.",
+    "positiveRetentionQuestions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "internalTextGate": "PASS: attribution is normal reader-useful source context, not internal governance/AI/rights boilerplate; only Independent concept preview in footer.",
+    "businessFidelity": "PASS: experience remains SOURCE CLAIM; no founding-year, official endorsement, radius, new credential or availability inference; contact paths unchanged."
+  },
+  "assetFindings": {
+    "status": "PASS",
+    "finding": "Four original material studies unchanged and individually retained; their rendered subjects remain clear in both viewports and are not labelled actual customer jobs. Original inspection from pre-code remains applicable because asset hashes are unchanged."
+  },
+  "rubric": {
+    "品牌辨识度": 8.1,
+    "素材真实性": 8.5,
+    "客户了解度 / 资产整合": 8.3,
+    "首屏张力": 8.4,
+    "排版层级": 8.6,
+    "节奏 / 留白": 8.2,
+    "商业说服": 8.3,
+    "移动端": 8.4,
+    "原创 / 去模板感": 8.2,
+    "老板购买欲 / Current Offer 价值感": 8.1
+  },
+  "rubricAverage": 8.31,
+  "remainingP0P1": 0,
+  "clientShowable": "PASS",
+  "replacementReadyFinal": "PASS",
+  "independentVisualAcceptance": "PASS",
+  "comparisonWithR1": "No regression; more specific service enquiry and compact close, experience carefully attributed.",
+  "hashVerification": {
+    "result": "PASS",
+    "contract": "PASS",
+    "evidenceFiles": 20,
+    "siteFiles": 13
+  },
+  "scope": "Local Demo only; no deployment, send or final transfer approval."
+}

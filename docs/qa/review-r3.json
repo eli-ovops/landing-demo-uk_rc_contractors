@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-07T01:36:28.031249+00:00",
+  "reviewer": {
+    "taskId": "/root/rc_demo_review",
+    "name": "Independent R C Contractors Demo Reviewer",
+    "identityEvidence": "collaboration tool spawn/followup current task tree; production Owner /root; reviewer owns only independent review files"
+  },
+  "inputHash": "91741966f1594da8be6c535ef2d6612b0fe84fef20a6464d77c4e7dadc1fbbd6",
+  "resultSha256": "cc50c6bab1be9d6e33442fcecaf31a01448c44e635c56cce768c53d37aa7fc99",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "26633bad228e52ef0fac64c30629fdc67a40e59d43cfc86cbaa3e6a4ca9534c0"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "46b6471e142eec843d8210c221ca5049c706b4bc373b974e8692c03653f13df3"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "c4927d0f43b884420b5202cd5a049ea315f378748ed303362e8f491085501064"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "a51ca32d618b1bdd83c48ebdb1d3f33d74727c69fee276ac07e03f1f93c285c8"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "974eb416af55e2308978421299e32cab8187f8f93a1211542beea17188b59230"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "86fbd537058c8a8ceafc47219e8c72d5fef8d9b9b1f7ee201712e373d3fdffde"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "d143e56df67ae4c6dfa691e03695dd8f0f76ba1fe3141c6e2ba21c9fb51eff18"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "63373336231ee3f0d99a09dc41ecf78846e8f57e55479b5877adce4a6fc42b89"
+    },
+    {
+      "path": "desktop-section-5.png",
+      "sha256": "29e03c554c17cd162d813d945ddfd012c6342139f7d37003c2e609d6f9c0cc23"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "796b88b95e2cfa9e3a71ef303e1a84ae5a66b0d7ec3b658f438e4e5a66aa0ed5"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "b0f0d7da5090c2b0aa063837107fef41942339597cb9a08631fb3ab9da92daf3"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "a72ee77385aeb1b954f9a16e6186bb1b4095f7cacf52292b9d702e751c234715"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "71a74ce62269184d4c8d5aba8be51550cb3ed01a9504c785ae80d39106bd4297"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "9cc78cb56b225a8221a080d32583ffd9b4209b84a5ef88fef7796a8d3c00ced4"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "8a99618cb2c4ae63b1d545e9ba00d2a2d47c75ccbf7ef584e07bf8438a4371e3"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "999184c54e19535a62977c8d2170ab5f44c953d048c69d9745641c30cab2dcbd"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "b9a6e0a3d40d03e6d984d2fcf5710dc09af544a6b6e8f5498081440a6cac7df7"
+    },
+    {
+      "path": "mobile-section-5.png",
+      "sha256": "d31302edb022c7e67bbf7cad34f89094bf846d10fefc4fc4d461d3fc6d80025c"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "10bd13652fac03e1e41b176d42064d97a94fbf042c3cf4867c6060d5564d481a"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "3b5bbbb5fa2319442a6b3b3aefdd69401dc0f0712ba244d595d6eaab70a00ccb"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": {
+      "status": "PASS",
+      "viewport": "1440x900",
+      "finding": "Personally viewed current top/full/service chapter screenshots. New alternating service composition and quiet evidence typography improve hierarchy; all four material subjects remain intact. Hero is essentially unchanged and limits first-screen distinction."
+    },
+    "mobile": {
+      "status": "PASS",
+      "viewport": "390x844",
+      "finding": "Personally viewed top/full/service and roof sections. Paving introduction precedes image; masonry still image-before-job rather than planned job-first. Distinct chapters and smaller readable roof improve rhythm; no visible full-page clipping or body-text shrink."
+    }
+  },
+  "businessFindings": {
+    "status": "PASS",
+    "threeFirstOpeningTests": {
+      "noCopyRecognition": "PASS for exterior masonry; still somewhat material-supplier-like due isolated specimen hero.",
+      "commercialUpgrade": "PASS, June source-specific proof now supports masonry choice, contextual enquiry links and April communication proof form a clearer enquiry story.",
+      "ownerReplyPerspective": "PASS, accurate service/contact/location and useful evidence make a credible page; no measured willingness to pay."
+    },
+    "retentionSixQuestions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "bottom40": "PASS, smaller roof remains legible and introduces secondary scope; April communication evidence remains new and source-specific before exact contact ledger.",
+    "internalTextGate": "PASS; concept images not labelled customer projects, no AI/rights/internal narrative on page.",
+    "fidelity": "PASS; unchanged factual scope, dates, SOURCE CLAIM experience and contact destinations.",
+    "ninePointTarget": "NOT MET",
+    "highestValueRemaining": [
+      "Hero remains a single isolated materials specimen plus generic better-spaces wording; improve service-first visual/story without inventing real projects.",
+      "June proof has a readable source label but no local direct verification link; add source access at the point where proof is used.",
+      "Masonry mobile order is still image then job text; implement intended job-first order while keeping image and quote clearly separated."
+    ]
+  },
+  "assetFindings": {
+    "status": "PASS",
+    "finding": "Same four current original/derived families, no new asset; full images legible and unique in role. June proof has a border and separate article, not a photo caption; its adjacent brick study is not explicitly identified as the stone-wall job."
+  },
+  "rubric": {
+    "品牌辨识度": 8.4,
+    "素材真实性": 8.8,
+    "客户了解度 / 资产整合": 8.8,
+    "首屏张力": 8.4,
+    "排版层级": 9.0,
+    "节奏 / 留白": 8.8,
+    "商业说服": 8.8,
+    "移动端": 8.8,
+    "原创 / 去模板感": 8.6,
+    "老板购买欲 / Current Offer 价值感": 8.6
+  },
+  "rubricAverage": 8.7,
+  "remainingP0P1": 0,
+  "clientShowable": "PASS",
+  "replacementReadyFinal": "PASS",
+  "independentVisualAcceptance": "PASS",
+  "ninePointTarget": "NOT MET",
+  "currentInputVerification": "All evidence, current contract and site manifest hashes match at review time."
+}

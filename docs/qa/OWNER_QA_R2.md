@@ -1,0 +1,7 @@
+# Same-v1 r2 QA
+
+Current run: evidence/demo-workflow-20260905/rc-contractors-v1-20260907/runs/2026-09-07T01-19-48-840Z-5ac2ef6a. Input596f5960ee56134f9cfbcd490cc44f018dc9cb3ef810d7122dcfe2f1c3cd8091. Mechanical PASS, zero findings,24mapped DOM expectations,20source rows:11facts +1concept-replacement row used,8specific exclusions. Four original images unchanged. F11 source-claimed experience and F02 postcode are newly active, with source links preserved in contract. Exact original research CSV stays frozen.
+
+Owner personally inspected desktop top/full and mobile experience/contact screenshots: compact new evidence band, service actions and shorter contact heading are intact. SUPPLEMENTAL_R2.json is separately bound to current HTML/CSS;375/390/800/1440px no overflow or short visible link target, keyboard skip/focus present, reduced motion disables smooth scrolling, both new service links actually scroll to#contact. No errors. Direct call/email targets untouched and not activated. Lighter paper improves existing dark text contrast; blue band values unchanged. First-screen CTA still passes both required viewports.
+
+No new media generation/download, package, external system, deployment or send. Existing local preview URL unchanged. Old review/QA retained as historical, new final independent decision is INDEPENDENT_REVIEW_R2.md / review-r2.json. REFINEMENT_R2.md decisions supersede old F11 exclusion and lower listing placement; original pre-code document is the pre-implementation snapshot, not an updated runtime contract.

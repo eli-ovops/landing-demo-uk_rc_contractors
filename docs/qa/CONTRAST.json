@@ -1,0 +1,32 @@
+[
+  {
+    "foreground": "#182d3b",
+    "background": "#edf1f2",
+    "contrast": 12.5,
+    "AA_normal": true
+  },
+  {
+    "foreground": "#526472",
+    "background": "#edf1f2",
+    "contrast": 5.39,
+    "AA_normal": true
+  },
+  {
+    "foreground": "#edf1f2",
+    "background": "#174766",
+    "contrast": 8.67,
+    "AA_normal": true
+  },
+  {
+    "foreground": "#d1dfe8",
+    "background": "#174766",
+    "contrast": 7.25,
+    "AA_normal": true
+  },
+  {
+    "foreground": "#bcd0de",
+    "background": "#174766",
+    "contrast": 6.21,
+    "AA_normal": true
+  }
+]

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-07T01:41:44.597493+00:00",
+  "reviewer": {
+    "taskId": "/root/rc_demo_review",
+    "name": "Independent R C Contractors Demo Reviewer",
+    "identityEvidence": "collaboration tool spawn/followup current task tree; producer /root / 01a0793a-28ac-7e60-a889-1e1e21e491c3; reviewer did not edit page or assets"
+  },
+  "inputHash": "b1a862572c2964d34e69999d9449e4ece9b678c0a0433d9fba35cb5daec91392",
+  "resultSha256": "c31f0bb35781e6670f637e5dfc18833cf8d2cd390ade0f2f52a08dfcf1b11d9f",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "ad7afe6f032a367099cc7154d14a6b24082ce98d7505cec6aed2fedda952d5a8"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "46b6471e142eec843d8210c221ca5049c706b4bc373b974e8692c03653f13df3"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "492dae930f0743af33246d8daec12591add4db45575484537e0be5ada42bcbcc"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "1c75c566f388350da98858e1752e0b311fb66b1323006f7010ffd86670174d4a"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "974eb416af55e2308978421299e32cab8187f8f93a1211542beea17188b59230"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "0d1e07b7e6f0562d3b76a3a75fd8d7b75748cfa24b7087bc93fb138189abcd0a"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "3caa4f7625a79e63fb840a9dcb0d3585b7082e3ee01f28d3299a1eba977f5e2e"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "5478cd6dc151f6277c0c401e8527ad41b5caf0471fb602bcdfa52cbc4e040d37"
+    },
+    {
+      "path": "desktop-section-5.png",
+      "sha256": "f46875e2589304de030380067e503b8de649211d5eceaa51a7393f8439bf0989"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "ee62428d83cbe6ec23aefd18699a2ff8c8d7966e5e703d8e1e6e4ae60129272a"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "52daed379d2698c382191e813020c15c73d2c351779fa803ad0c078e162a9d37"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "2ee742488fe49df34befdd70f4d97a0b1dea0a36997fd3d2a043dcc406137311"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "677923ed448a329564e02a8f159471c218336e21cdecf0bc3196a636f9a6c060"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "9cc78cb56b225a8221a080d32583ffd9b4209b84a5ef88fef7796a8d3c00ced4"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "8f28a8179ee5634ef3723f2a7b3939ccc17305ac9c7815091719345a044d3197"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "ea0b2b0b1f9c8313a00ffba8575fe650b37c3d6f8925531198328c5c62823399"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "b9a6e0a3d40d03e6d984d2fcf5710dc09af544a6b6e8f5498081440a6cac7df7"
+    },
+    {
+      "path": "mobile-section-5.png",
+      "sha256": "d31302edb022c7e67bbf7cad34f89094bf846d10fefc4fc4d461d3fc6d80025c"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "ab971292e67248e69aa0612229d81eedb115616c1a39da17bd736119bd20d112"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "5f957c6d78f6a4977c8937268f6cf0c719a273d63adc53e3fce593be7a4ba7fa"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": {
+      "status": "PASS",
+      "viewport": "1440x900",
+      "finding": "Personally viewed top/full and service detail. New intact terrace model gives wall/paving a clear use relationship. Two-line job-specific heading and CTA remain balanced; alternating service chapters and source-specific proof retained."
+    },
+    "mobile": {
+      "status": "PASS",
+      "viewport": "390x844",
+      "finding": "Personally viewed top/full/service/contact. New model fits entirely, job introduction now precedes masonry image and independent proof; June source link is legible; contact full mailbox and phone targets fit. Independent local keyboard focus reveals skip link correctly, and service CTA reaches visible contact row y487.20."
+    }
+  },
+  "businessFindings": {
+    "status": "PASS",
+    "threeFirstOpeningTests": {
+      "noCopyRecognition": "PASS: open-edged terrace model shows an outdoor area formed by wall and paving, visibly usable at household scale; stronger service/use story than old loose specimen.",
+      "commercialUpgrade": "PASS: job-oriented chapters, directly checkable June feedback, April communication evidence and exact contact paths improve the Council directory enquiry path.",
+      "ownerReplyPerspective": "PASS: coherent finished page reflects known Coal Aston services and source-bound trust, with an inviting but non-project illustration; current offer value judgement, not purchase prediction."
+    },
+    "retentionSixQuestions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "bottom40": "PASS: roof model/secondary scope and April feedback remain new before compact contact; no duplicated quote, image or empty huge close.",
+    "fidelity": "PASS: new model has no customer project identity, no landscape-design or furniture-supply promise. Experience remains source claim; directory date membership, postcode locality; all contact routes retained.",
+    "internalTextGate": "PASS: natural business copy and attribution, no AI/rights/governance boilerplate; footer Independent concept preview.",
+    "ninePointTarget": "MET AS INDEPENDENT RUBRIC ASSESSMENT",
+    "residualLimits": [
+      "No verified customer project imagery or official brand mark; these remain unknown and are not invented.",
+      "Brand and rhythm retain small headroom: secondary material panels are intentionally restrained rather than highly distinctive. Neither is a required defect."
+    ]
+  },
+  "assetFindings": {
+    "status": "PASS",
+    "heroSpace": "Personally viewed actual new asset at pre-code and both final renders. Open cutaway base and blue studio ground remain intact; ordinary seating provides scale/use context. No real property or project implication.",
+    "otherAssets": "Three prior material studies unchanged, unique visible placements and readable subjects. Former hero is preserved but not displayed.",
+    "evidenceSeparation": "June proof is a separate bounded article with direct source URL and date, not an illustration caption."
+  },
+  "rubric": {
+    "品牌辨识度": 8.9,
+    "素材真实性": 9.2,
+    "客户了解度 / 资产整合": 9.0,
+    "首屏张力": 9.2,
+    "排版层级": 9.0,
+    "节奏 / 留白": 8.9,
+    "商业说服": 9.0,
+    "移动端": 9.0,
+    "原创 / 去模板感": 9.0,
+    "老板购买欲 / Current Offer 价值感": 9.0
+  },
+  "rubricAverage": 9.02,
+  "remainingP0P1": 0,
+  "clientShowable": "PASS",
+  "replacementReadyFinal": "PASS",
+  "independentVisualAcceptance": "PASS",
+  "ninePointTarget": "MET AS INDEPENDENT RUBRIC ASSESSMENT",
+  "verification": {
+    "contract": "PASS",
+    "resultSha256": "c31f0bb35781e6670f637e5dfc18833cf8d2cd390ade0f2f52a08dfcf1b11d9f",
+    "evidenceFiles": 20,
+    "siteFiles": 15
+  },
+  "scope": "Local static demo; no deployment, outreach or final asset/source-transfer approval."
+}

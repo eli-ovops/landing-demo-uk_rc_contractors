@@ -1,0 +1,4 @@
+# Internal cost review / continuing same authorised slice
+2026-09-07. Instrumented wall clock since first Demo start now exceeds 60 minutes across initial build, social/photo research and two user-requested refinements. This is not a single uninterrupted production duration; original pre-instrumentation preparation remains UNKNOWN. R3 refinement start precisely 01:30:02 UTC.
+
+Cost cause: material catalogue direction reached 8.31, service/proof restructuring 8.70; user explicitly requested 9, requiring a meaningful hero-space improvement rather than relabelling the score. Response: retain one production Owner and reuse the independent reviewer; no new task, no dependency, no repeated broad customer research, no new scope or user approval. Four visual beats/static contact slice retained. Current actual-byte mechanical and supplementary QA complete; independent final visual review is in progress. Finish on supported outcome, no artificial score or iteration limit.

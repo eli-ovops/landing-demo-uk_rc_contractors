@@ -1,0 +1,36 @@
+schema_version: 1
+status: LOCAL_DEMO_AUTHORIZED
+site_id: rc-contractors-coal-aston
+project: overseas-local-business-first-sale
+confirmed_by: current_user
+confirmed_at: 2026-09-07
+no_secret_values_in_this_file: true
+owner: 01a0793a-28ac-7e60-a889-1e1e21e491c3
+local_root: /Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/demo
+active_version: v1
+architecture:
+  type: static-single-page
+  frontend: HTML-CSS
+  backend: none
+  cms: none
+  database: none
+  forms: none
+  analytics: none
+runtime:
+  existing_node: /Users/USER/.local/nodejs/node-v22.16.0-darwin-arm64/bin/node
+  build: none
+  browser: isolated-existing-Chrome-Playwright
+environments:
+  preview: local-only
+  production: NOT_AUTHORIZED
+server: none
+deploy: NOT_AUTHORIZED
+source_transfer: NOT_REQUESTED
+media:
+  customer_photos: none-verified
+  concept_images: four-original-material-studies
+  fonts: Barlow-and-Barlow-Condensed-SIL-OFL
+healthcheck:
+  route: /index.html
+  expected: desktop-and-mobile-static-page-with-direct-contact-links
+rollback: preserve-same-version-source-and-evidence-no-production-state

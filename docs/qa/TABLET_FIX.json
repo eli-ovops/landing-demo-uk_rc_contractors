@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-07T01:01:59.538Z",
+  "width": 800,
+  "actual": {
+    "headlineRight": 346.5625,
+    "imageLeft": 383.515625
+  },
+  "status": "PASS",
+  "cssSha256": "1500ca74ffbafcc38eb7cfc1647f706f5d62957a97df986564b4e993f2d214be"
+}

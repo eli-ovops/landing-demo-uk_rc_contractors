@@ -1,0 +1,49 @@
+{
+  "url": "https://empty-star-b2d6.uumit-200ut-agents.workers.dev/",
+  "results": [
+    {
+      "path": "index.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "styles.css",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/hero-space.webp",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/barlow-OFL.txt",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/paving.webp",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/masonry.webp",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/barlow-condensed-bold.ttf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/repair.webp",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/barlow-regular.ttf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/barlow-semibold.ttf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "path": "assets/barlow-condensed-OFL.txt",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

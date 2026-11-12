@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-07T01:21:39.283Z",
+  "htmlSha256": "5aeaf97501e224ab0030e1ee93d12ed5f07af735dc4a67455c29dc9335ace3ee",
+  "cssSha256": "44b8d3a76ba192581b2fb3eb216ebbfb06ba509018bc8dfe864c719061c2abee",
+  "results": [
+    {
+      "width": 375,
+      "focus": {
+        "text": "Skip to content",
+        "outline": "solid"
+      },
+      "overflow": false,
+      "shortTargets": [],
+      "headlineRight": 347.65625,
+      "imageLeft": 20,
+      "scrollBehavior": "auto",
+      "postcode": "S18 3AG",
+      "contacts": [
+        "tel:+447854822061",
+        "mailto:[REDACTED_EMAIL]",
+        "tel:+441246397245"
+      ],
+      "paths": [
+        {
+          "hash": "#contact",
+          "contactTop": 188.828125
+        },
+        {
+          "hash": "#contact",
+          "contactTop": 188.828125
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 390,
+      "focus": {
+        "text": "Skip to content",
+        "outline": "solid"
+      },
+      "overflow": false,
+      "shortTargets": [],
+      "headlineRight": 358.953125,
+      "imageLeft": 20,
+      "scrollBehavior": "auto",
+      "postcode": "S18 3AG",
+      "contacts": [
+        "tel:+447854822061",
+        "mailto:[REDACTED_EMAIL]",
+        "tel:+441246397245"
+      ],
+      "paths": [
+        {
+          "hash": "#contact",
+          "contactTop": 187.578125
+        },
+        {
+          "hash": "#contact",
+          "contactTop": 187.578125
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 800,
+      "focus": {
+        "text": "Skip to content",
+        "outline": "solid"
+      },
+      "overflow": false,
+      "shortTargets": [],
+      "headlineRight": 346.5625,
+      "imageLeft": 383.515625,
+      "scrollBehavior": "auto",
+      "postcode": "S18 3AG",
+      "contacts": [
+        "tel:+447854822061",
+        "mailto:[REDACTED_EMAIL]",
+        "tel:+441246397245"
+      ],
+      "paths": [
+        {
+          "hash": "#contact",
+          "contactTop": 375.078125
+        },
+        {
+          "hash": "#contact",
+          "contactTop": 375.078125
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "focus": {
+        "text": "Skip to content",
+        "outline": "solid"
+      },
+      "overflow": false,
+      "shortTargets": [],
+      "headlineRight": 601.53125,
+      "imageLeft": 689.515625,
+      "scrollBehavior": "auto",
+      "postcode": "S18 3AG",
+      "contacts": [
+        "tel:+447854822061",
+        "mailto:[REDACTED_EMAIL]",
+        "tel:+441246397245"
+      ],
+      "paths": [
+        {
+          "hash": "#contact",
+          "contactTop": 369.671875
+        },
+        {
+          "hash": "#contact",
+          "contactTop": 369.671875
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

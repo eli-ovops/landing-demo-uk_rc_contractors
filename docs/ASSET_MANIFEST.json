@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hero",
+    "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-a66dc0cb-dcd4-4fe0-a3f3-1e44b1d48341.png",
+    "retrievedAt": "2026-09-07T00:47:00.965Z",
+    "originalPath": "assets/originals/hero.png",
+    "originalSha256": "e77b7d70f29dc64728a627f02dc536996d0f6a844b9c2e38533b8656e801f599",
+    "path": "assets/hero.webp",
+    "sha256": "f370e3f890683794fd15c80085b4a6228471392cedff2a6fcd0f5525c1047a0f",
+    "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+    "authenticity": "CONCEPT",
+    "attribution": "Original generated miniature material study; never a completed client project"
+  },
+  {
+    "id": "masonry",
+    "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-1be75c92-e3a7-4c43-a026-d8ebaed951cd.png",
+    "retrievedAt": "2026-09-07T00:47:01.030Z",
+    "originalPath": "assets/originals/masonry.png",
+    "originalSha256": "2c03fae07cff26a0849040803d48a910b314d0ca66a06fc21c2a3f2f8e01f187",
+    "path": "assets/masonry.webp",
+    "sha256": "48496da893f550a4f44119f6bbe363c2297bec686f709827604668b5bf827407",
+    "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+    "authenticity": "CONCEPT",
+    "attribution": "Original generated miniature material study; never a completed client project"
+  },
+  {
+    "id": "paving",
+    "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-ef285637-a14d-4d79-bc5e-563b2e5f76e0.png",
+    "retrievedAt": "2026-09-07T00:47:01.104Z",
+    "originalPath": "assets/originals/paving.png",
+    "originalSha256": "ba35bd0a3e7f071c42b8627966747f353b66a81c82bdb408a54a0ebe21e042fa",
+    "path": "assets/paving.webp",
+    "sha256": "4adb0b65e2cb3cb38a68356a9d08452aea1ef9c21a5248fb951e29f006756d56",
+    "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+    "authenticity": "CONCEPT",
+    "attribution": "Original generated miniature material study; never a completed client project"
+  },
+  {
+    "id": "repair",
+    "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-a2bbc130-6be2-4cab-a785-1088cf282f8d.png",
+    "retrievedAt": "2026-09-07T00:47:01.159Z",
+    "originalPath": "assets/originals/repair.png",
+    "originalSha256": "f4bee191351abd6a673a000f42a8d4e2d92346eb5a86331e035707acf7209261",
+    "path": "assets/repair.webp",
+    "sha256": "fd328ebe688d6dbc7def2e84ffde40c377851008bed7b2d23dc8cab1b46d85b1",
+    "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+    "authenticity": "CONCEPT",
+    "attribution": "Original generated miniature material study; never a completed client project"
+  },
+  {
+    "id": "hero-space",
+    "source": "/Users/USER/.codex/generated_images/01a0793a-28ac-7e60-a889-1e1e21e491c3/exec-d5433214-69d6-4e4b-bdfe-4aa94d05d910.png",
+    "retrievedAt": "2026-09-07T01:36:48.623421+00:00",
+    "originalPath": "assets/originals/hero-space.png",
+    "originalSha256": "3d9cbc04dfc695f1dd3a25177f9f15b9a65f3691e2d56196340fa483625f0f70",
+    "path": "assets/hero-space.webp",
+    "sha256": "27a7a2518495a0800fba0510dce667d8558f78cf6f5635573fdddee17c882795",
+    "processing": "Proportional resize and WebP encoding only; no content, cropping or colour edit",
+    "authenticity": "CONCEPT",
+    "attribution": "Original architectural garden-space miniature; no real location or completed customer project depicted"
+  }
+]

@@ -1,0 +1,397 @@
+{
+  "at": "2026-09-07T01:39:33.123Z",
+  "hashes": {
+    "index.html": "c5e1265c1978342edb50ecb05020b33a08dd3e514df4bd1101d8aa8238271f02",
+    "styles.css": "7d1cda03bbc7c1a086ebc726f22ac738b34f71139eca3c287ee19e460c78c9a0"
+  },
+  "results": [
+    {
+      "width": 375,
+      "overflow": false,
+      "height": 3739,
+      "images": [
+        {
+          "id": "hero-image",
+          "ok": true
+        },
+        {
+          "id": "masonry-image",
+          "ok": true
+        },
+        {
+          "id": "paving-image",
+          "ok": true
+        },
+        {
+          "id": "repair-image",
+          "ok": true
+        }
+      ],
+      "targets": [
+        {
+          "text": "R C Contractors.\n      Building & property repairs",
+          "height": 52.546875,
+          "href": "#main"
+        },
+        {
+          "text": "Discuss your project ↗",
+          "height": 44,
+          "href": "#contact"
+        },
+        {
+          "text": "Discuss your project",
+          "height": 52,
+          "href": "#contact"
+        },
+        {
+          "text": "Customer feedback ↓",
+          "height": 44,
+          "href": "#feedback"
+        },
+        {
+          "text": "Tell us about your wall ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read this review on Trusted Trader ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Talk about your outdoor space ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read the reviews ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Call07854 822061",
+          "height": 99.9375,
+          "href": "tel:+447854822061"
+        },
+        {
+          "text": "[REDACTED_EMAIL]",
+          "height": 79.9375,
+          "href": "mailto:[REDACTED_EMAIL]"
+        },
+        {
+          "text": "Or call the landline 01246 397245↗",
+          "height": 54,
+          "href": "tel:+441246397245"
+        },
+        {
+          "text": "Back to top ↑",
+          "height": 44,
+          "href": "#main"
+        }
+      ],
+      "reducedMotion": "auto",
+      "focus": "skip",
+      "paths": [
+        true,
+        true
+      ],
+      "errors": []
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "height": 3782,
+      "images": [
+        {
+          "id": "hero-image",
+          "ok": true
+        },
+        {
+          "id": "masonry-image",
+          "ok": true
+        },
+        {
+          "id": "paving-image",
+          "ok": true
+        },
+        {
+          "id": "repair-image",
+          "ok": true
+        }
+      ],
+      "targets": [
+        {
+          "text": "R C Contractors.\n      Building & property repairs",
+          "height": 55.4375,
+          "href": "#main"
+        },
+        {
+          "text": "Discuss your project ↗",
+          "height": 44,
+          "href": "#contact"
+        },
+        {
+          "text": "Discuss your project",
+          "height": 52,
+          "href": "#contact"
+        },
+        {
+          "text": "Customer feedback ↓",
+          "height": 44,
+          "href": "#feedback"
+        },
+        {
+          "text": "Tell us about your wall ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read this review on Trusted Trader ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Talk about your outdoor space ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read the reviews ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Call07854 822061",
+          "height": 99.9375,
+          "href": "tel:+447854822061"
+        },
+        {
+          "text": "[REDACTED_EMAIL]",
+          "height": 81.328125,
+          "href": "mailto:[REDACTED_EMAIL]"
+        },
+        {
+          "text": "Or call the landline 01246 397245↗",
+          "height": 54,
+          "href": "tel:+441246397245"
+        },
+        {
+          "text": "Back to top ↑",
+          "height": 44,
+          "href": "#main"
+        }
+      ],
+      "reducedMotion": "auto",
+      "focus": "skip",
+      "paths": [
+        true,
+        true
+      ],
+      "errors": []
+    },
+    {
+      "width": 800,
+      "overflow": false,
+      "height": 2642,
+      "images": [
+        {
+          "id": "hero-image",
+          "ok": true
+        },
+        {
+          "id": "masonry-image",
+          "ok": true
+        },
+        {
+          "id": "paving-image",
+          "ok": true
+        },
+        {
+          "id": "repair-image",
+          "ok": true
+        }
+      ],
+      "targets": [
+        {
+          "text": "R C Contractors.\n      Building & property repairs",
+          "height": 65.078125,
+          "href": "#main"
+        },
+        {
+          "text": "Services",
+          "height": 44,
+          "href": "#services"
+        },
+        {
+          "text": "Customer feedback",
+          "height": 44,
+          "href": "#feedback"
+        },
+        {
+          "text": "Discuss your project ↗",
+          "height": 44,
+          "href": "#contact"
+        },
+        {
+          "text": "Discuss your project",
+          "height": 56.796875,
+          "href": "#contact"
+        },
+        {
+          "text": "Customer feedback ↓",
+          "height": 44,
+          "href": "#feedback"
+        },
+        {
+          "text": "Tell us about your wall ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read this review on Trusted Trader ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Talk about your outdoor space ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read the reviews ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Call07854 822061",
+          "height": 109.53125,
+          "href": "tel:+447854822061"
+        },
+        {
+          "text": "[REDACTED_EMAIL]",
+          "height": 87.328125,
+          "href": "mailto:[REDACTED_EMAIL]"
+        },
+        {
+          "text": "Or call the landline 01246 397245↗",
+          "height": 54,
+          "href": "tel:+441246397245"
+        },
+        {
+          "text": "Back to top ↑",
+          "height": 44,
+          "href": "#main"
+        }
+      ],
+      "reducedMotion": "auto",
+      "focus": "skip",
+      "paths": [
+        true,
+        true
+      ],
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "height": 2980,
+      "images": [
+        {
+          "id": "hero-image",
+          "ok": true
+        },
+        {
+          "id": "masonry-image",
+          "ok": true
+        },
+        {
+          "id": "paving-image",
+          "ok": true
+        },
+        {
+          "id": "repair-image",
+          "ok": true
+        }
+      ],
+      "targets": [
+        {
+          "text": "R C Contractors.\n      Building & property repairs",
+          "height": 65.078125,
+          "href": "#main"
+        },
+        {
+          "text": "Services",
+          "height": 44,
+          "href": "#services"
+        },
+        {
+          "text": "Customer feedback",
+          "height": 44,
+          "href": "#feedback"
+        },
+        {
+          "text": "Discuss your project ↗",
+          "height": 44,
+          "href": "#contact"
+        },
+        {
+          "text": "Discuss your project",
+          "height": 56.796875,
+          "href": "#contact"
+        },
+        {
+          "text": "Customer feedback ↓",
+          "height": 44,
+          "href": "#feedback"
+        },
+        {
+          "text": "Tell us about your wall ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read this review on Trusted Trader ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Talk about your outdoor space ↗",
+          "height": 48,
+          "href": "#contact"
+        },
+        {
+          "text": "Read the reviews ↗",
+          "height": 44,
+          "href": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=62399"
+        },
+        {
+          "text": "Call07854 822061",
+          "height": 109.53125,
+          "href": "tel:+447854822061"
+        },
+        {
+          "text": "[REDACTED_EMAIL]",
+          "height": 91.53125,
+          "href": "mailto:[REDACTED_EMAIL]"
+        },
+        {
+          "text": "Or call the landline 01246 397245↗",
+          "height": 54,
+          "href": "tel:+441246397245"
+        },
+        {
+          "text": "Back to top ↑",
+          "height": 44,
+          "href": "#main"
+        }
+      ],
+      "reducedMotion": "auto",
+      "focus": "skip",
+      "paths": [
+        true,
+        true
+      ],
+      "errors": []
+    }
+  ]
+}

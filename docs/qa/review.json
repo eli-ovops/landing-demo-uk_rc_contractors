@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-07T01:05:23.162078+00:00",
+  "reviewer": {
+    "taskId": "/root/rc_demo_review",
+    "name": "Independent R C Contractors Demo Reviewer",
+    "identityEvidence": "collaboration tool spawn/followup current task tree; production Owner /root, task 01a0793a-28ac-7e60-a889-1e1e21e491c3; reviewer writes review documents only"
+  },
+  "inputHash": "0df9323d9ae618a1d521a6d0c61197eb2c3113014fade4c93247ca74b4611a3f",
+  "resultSha256": "42c6c423c902780019bc3626208b760b56d7db967f834bc6110c0516d5eb1b7a",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "d7a05ec84b5acf8486b92f02a6078e1fe19d00d14a697f9da7fbca56c262d263"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "ac6e50f7c76b718a74b278b194a30c0d6010cca00352ae9881a1fac0c8eb837f"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "80594f500f85fb3808da1ff32ad130100992741ae8dd258b14c559dd931b12d9"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "5641b8a4e31d1f5959157958028d4b903f8371a74834824a9fccb0c65000a0ca"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "5abb6e021926d4d77bf4040ff05ffa4027c3d39868eb20d96dc72071b83828d4"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "a218447e652006ff1863f54fe7c60536792f8020cf54715c7a700a298bdd6b21"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "f1315d8fcdc206886c263cbf0e0a5bd88a69065ef500f0f920ece292313787d4"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "7a5a7ff17ef768c17b36ba5823cf11d48c779ffe4a8f3aa490d66c0b18ab63e5"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "056f4c05e757e52697266f2cfd11f0138164718870468752d182f21a0af7865d"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "1eb5e780a15488da9ed8c80c07aa1ace34753cb63188ac4d8f9120517f719f69"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "7606f84a6c1fe5758683f01c41c7d45918a5f2b4365763d457d87e8cccfc0f24"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "0527d8570cbb06c013d7f24ccec315ca716336c310c090a2d564cd0a2adcde6e"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "1a040885a3f08c992447d0b1298b6ec9bc22be091d345079402434d762dc7e5b"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "98698b16bec238e505c93ffec3e988b1fc9da061a951c7c4f39d1ab8dc88b8b1"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "6f180411527374724f407bbb8917c7e3c4e78c4b0e477cfb84178f47ca577a77"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "f5921efed3167b23503ee4e9ab4daa7c706b9859742306209de1fe02d9645f79"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "b6abc36ab11c5f52b243a16f01524da8bb5ca3474e98f24e2e51882149eacd69"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "5fb222949dc631845b49c36b16778e9f46a21c0e76238ff3d7268b2f07f3d93e"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": {
+      "viewport": "1440x900",
+      "status": "PASS",
+      "evidence": [
+        "desktop-top.png",
+        "desktop-full.png",
+        "desktop-section-2.png",
+        "desktop-section-3.png",
+        "desktop-section-4.png"
+      ],
+      "finding": "Compact split hero with intact wall/paving study and visible CTA; asymmetric service pair; useful roof model and dated proof in lower portion; contact ledger clear, no crop/overlap/empty section."
+    },
+    "mobile": {
+      "viewport": "390x844",
+      "status": "PASS",
+      "evidence": [
+        "mobile-top.png",
+        "mobile-full.png",
+        "mobile-section-2.png",
+        "mobile-section-3.png",
+        "mobile-section-4.png"
+      ],
+      "finding": "Two-line hero fits 350px content width; aligned image is wholly readable; service sequence, proof dates and full mailbox are legible; large contact targets. Independent live click of #hero-contact reaches #contact; tel/mailto inspected without activating."
+    }
+  },
+  "businessFindings": {
+    "status": "PASS",
+    "fiveSecondNoCopyRecognition": "Wall and paving specimen communicates exterior masonry before reading paragraphs. Separate brick/paving/roof images explain distinct service roles.",
+    "beforeAfterCommercialUpgrade": "Council category list and long feedback become two job choices plus related repairs, two attributed review highlights and a direct contact ledger without competitor-category navigation.",
+    "wouldIReplyOwnerPerspective": "Coal Aston identity, actual services, two contact numbers, exact mailbox, dated wall/slate and garage/driveway feedback make a credible first self-contained page at the current one-off offer. This is a rubric judgement, not predicted purchase probability.",
+    "retentionSixQuestions": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "bottom40": "PASS: roof/secondary service breadth and a new roof study precede specific feedback and membership date, then useful local enquiry prompt. Proof is the only substantial text-only beat; contact is a compact functional ledger, not an empty oversized slogan.",
+    "internalTextGate": "PASS: HTML/alt/link text and observed page states contain no internal rules, rights, AI, source manifests or transfer claims; footer has only Independent concept preview.",
+    "businessFidelity": "PASS: core masonry/paving plus roof/fencing/landscape/groundworks/drainage retained; locality not extended to a guessed radius; membership not founding; two dated excerpts remain third-party feedback.",
+    "scope": "Local static single page, no form/backend/tracking, no external sending/deployment/transfer approval."
+  },
+  "assetFindings": {
+    "status": "PASS",
+    "hero": "Whole miniature wall/paving subject retained; blue isolated model is not passed off as a client property.",
+    "masonry": "Original already close-cropped corner remains proportionate and clear; no factual context invented.",
+    "paving": "Independent slab/block layout study, not labelled herringbone or completed project.",
+    "repair": "Roof-corner model and spare tiles remain clear; visually separated from feedback so not its depicted project.",
+    "uniquePlacement": "Four distinct original/derived asset families, each one placement, all current hashes checked against inputs.",
+    "fonts": "Local Barlow fonts; no external fetch required."
+  },
+  "rubric": {
+    "品牌辨识度": 8.1,
+    "素材真实性": 8.5,
+    "客户了解度 / 资产整合": 8.1,
+    "首屏张力": 8.4,
+    "排版层级": 8.6,
+    "节奏 / 留白": 8.1,
+    "商业说服": 8.1,
+    "移动端": 8.4,
+    "原创 / 去模板感": 8.2,
+    "老板购买欲 / Current Offer 价值感": 8.0
+  },
+  "rubricAverage": 8.25,
+  "remainingP0P1": 0,
+  "firstPassIndependentResult": "PASS",
+  "clientShowable": "PASS",
+  "replacementReadyFinal": "PASS",
+  "independentVisualAcceptance": "PASS",
+  "hashVerification": "Result, all listed evidence, contract and every site manifest file independently SHA-256 verified at review time."
+}
